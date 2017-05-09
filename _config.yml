@@ -7,7 +7,7 @@ highlighter: 'pygments'
 permalink: /:title
 
 name: “Mukosame's Blog”
-title: 数学共享平台's blog
+title: 数学共享平台
 description: Everything about Mukosame.
 url: http://mukosame.github.io
 feed: /atom.xml
